@@ -7,7 +7,7 @@ export default function Profile() {
     <div>
       <div className="card">
         <div className="card-image">
-          <img className="activator" src={ImgProfile} alt="Nguyễn Tuấn Minh" />
+          <img className="activator" src={ImgProfile} alt="Nghiêm Phú Khang" />
           <Link className="btn-floating halfway-fab waves-effect waves-light red">
             <i className="material-icons activator">more_vert</i>
           </Link>
